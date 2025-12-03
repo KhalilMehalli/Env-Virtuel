@@ -1,0 +1,10 @@
+# Unreal Engine ignores
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+*.pdb
+*.sln
+.vs/
