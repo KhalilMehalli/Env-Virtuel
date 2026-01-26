@@ -1,4 +1,4 @@
-Ce dépôt contient un projet de réalité virtuelle développé sous Unreal Engine 5.6.1
+Ce dépôt contient un projet de réalité virtuelle développé sous Unreal Engine 5.7.1
 
 Le projet se divise en deux parties : la réalisation de 5 salles "guidées" suivie de la conception d'une salle personnelle intégrant une énigme de notre choix.
 
